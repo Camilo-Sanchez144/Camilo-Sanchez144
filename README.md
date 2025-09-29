@@ -53,7 +53,7 @@ Currently, I am expanding my skills in both front-end and back-end development, 
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
   <img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white">
 </span>
-<h4>Contac Me</h4>
+<h4>Contact Me</h4>
 <span>
   <a href="https://www.linkedin.com/in/yosed-camilo-sanchez-pinilla-40951a2b1/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </span>
