@@ -54,6 +54,8 @@ Currently, I am expanding my skills in both front-end and back-end development, 
   <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white">
   <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+  <img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white">
 </span>
 <h2>Github stats:</h2> 
 
@@ -61,4 +63,4 @@ Currently, I am expanding my skills in both front-end and back-end development, 
 [![](https://github-readme-streak-stats.herokuapp.com/?user=valentinawerle&theme=material-palenight)](https://github.com/Camilo-Sanchez144)
 </div>
 
-
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
