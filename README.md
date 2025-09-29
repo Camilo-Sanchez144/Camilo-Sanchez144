@@ -22,8 +22,12 @@
 <br>
 <br>
 <br>
+<img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="30px">&nbsp;***About me***
 <p align = "center">
-  I am fascinated by how computer technology 🌐 has brought changes to our lives that could never have been predicted; witnessing the expansion of computer science allowed me to consider studying software engineering from an early age, and my enthusiasm has perpetually developed since this time. And also I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️
+🌐 I am captivated by the way computer technology has transformed our lives in ways once unimaginable.
+Witnessing the rapid growth of computer science inspired me at an early age to pursue software engineering, and my enthusiasm for the field has only continued to grow. 💻
+I enjoy exploring new tech stacks and leveraging them to create meaningful, innovative projects that make an impact.
+Currently, I am expanding my skills in both front-end and back-end development, driven by a passion for continuous learning and building solutions that are productive, creative, and inspiring. 🛠️
 </p>
 <!--
 **Camilo-Sanchez144/Camilo-Sanchez144** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
