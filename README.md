@@ -22,8 +22,8 @@
 <br>
 <br>
 <br>
-<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
-<p align = "center">
+<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> <b>About me</b>
+<p>
 🌐 I am captivated by the way computer technology has transformed our lives in ways once unimaginable.
 Witnessing the rapid growth of computer science inspired me at an early age to pursue software engineering, and my enthusiasm for the field has only continued to grow. 💻
 I enjoy exploring new tech stacks and leveraging them to create meaningful, innovative projects that make an impact.
