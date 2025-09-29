@@ -4,18 +4,21 @@
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
-<img align="right" height="270px" alt="guy" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> </a>
-<p width="45%">
-Hi, nice to meet you. Let me introduce my profile in a few lines.
-  <ul>
-    <li>👨‍🔧 I'm a <b>Software Engineer</b></li>
-    <li>📍 I'm from <b>Colombia</b></li>
-    <li>🏢 I'm studying at <b>Uniempresarial</b></li>
-    <li>🌱 I'm currently learning <b>Web development</b></li>
-    <li>💬 Ask me about: anything, I am happy to help</li>
-    <li>📮 You can contact me directly here : <b>camilos0704@gmail.com</b>
-  </ul>
-</p>
+<br>
+<div>
+  <img align="right" height="270px" alt="guy" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> </a>
+  <p width="45%">
+  Hi, nice to meet you. Let me introduce my profile in a few lines.
+    <ul>
+      <li>👨‍🔧 I'm a <b>Software Engineer</b></li>
+      <li>📍 I'm from <b>Colombia</b></li>
+      <li>🏢 I'm studying at <b>Uniempresarial</b></li>
+      <li>🌱 I'm currently learning <b>Web development</b></li>
+      <li>💬 Ask me about: anything, I am happy to help</li>
+      <li>📮 You can contact me directly here : <b>camilos0704@gmail.com</b>
+    </ul>
+  </p>
+</div>
 <br>
 <br>
 <p align = "center">
