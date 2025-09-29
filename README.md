@@ -22,7 +22,7 @@
 <br>
 <br>
 <br>
-## <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="50px">About Me
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 <p align = "center">
 🌐 I am captivated by the way computer technology has transformed our lives in ways once unimaginable.
 Witnessing the rapid growth of computer science inspired me at an early age to pursue software engineering, and my enthusiasm for the field has only continued to grow. 💻
