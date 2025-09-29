@@ -20,8 +20,6 @@
   </p>
 </div>
 <br>
-<br>
-<br>
 <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> <b>About me</b>
 <hr></hr>
 <p>
@@ -63,4 +61,4 @@ Currently, I am expanding my skills in both front-end and back-end development, 
 [![](https://github-readme-streak-stats.herokuapp.com/?user=valentinawerle&theme=material-palenight)](https://github.com/Camilo-Sanchez144)
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
+<picture><img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"></picture>
