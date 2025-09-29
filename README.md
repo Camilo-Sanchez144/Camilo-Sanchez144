@@ -28,6 +28,7 @@ Witnessing the rapid growth of computer science inspired me at an early age to p
 I enjoy exploring new tech stacks and leveraging them to create meaningful, innovative projects that make an impact.
 Currently, I am expanding my skills in both front-end and back-end development, driven by a passion for continuous learning and building solutions that are productive, creative, and inspiring. 🛠️
 </p>
+<picture><img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"></picture>
 
 ## My Skills Include
 
@@ -62,5 +63,3 @@ Currently, I am expanding my skills in both front-end and back-end development, 
 [![](https://github-readme-stats.vercel.app/api?username=valentinawerle&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Camilo-Sanchez144)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=valentinawerle&theme=material-palenight)](https://github.com/Camilo-Sanchez144)
 </div>
-
-<picture><img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"></picture>
