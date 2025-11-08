@@ -28,6 +28,14 @@ Witnessing the rapid growth of computer science inspired me at an early age to p
 I enjoy exploring new tech stacks and leveraging them to create meaningful, innovative projects that make an impact.
 Currently, I am expanding my skills in both front-end and back-end development, driven by a passion for continuous learning and building solutions that are productive, creative, and inspiring. 🛠️
 </p>
+I enjoy creating videogames. Here are two small projects:
+
+1. My first videogame, inspired by Geometry Dash:
+   https://camilo144.itch.io/gdproject
+
+2. My second videogame, inspired by Flappy Bird:
+   https://camilo144.itch.io/flappybird
+
 
 ## My Skills Include
 
