@@ -1,4 +1,4 @@
-align="center">
+<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=999&lines=Hey!+I'm+Yosed+Camilo+Sanchez;Full+Stack+Dev+%7C+Automation+%26+APIs;n8n+%7C+Docker+%7C+OpenAI+%7C+AWS;Welcome+to+my+profile!" alt="Title"></img>
 </div>
 <p align="center">
